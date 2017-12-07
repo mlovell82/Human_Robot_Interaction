@@ -1,5 +1,5 @@
 # a file to send the tableBot to a specific location in the room
-# created by
+# created by Mark W. Sillman found at https://github.com/markwsillman/turtlebot/
 # modified by Michael Lovell 12/8/2017
 
 import rospy
