@@ -1,5 +1,5 @@
-# 
-#
+# a file to send the tableBot to a specific location in the room
+# created by
 # modified by Michael Lovell 12/8/2017
 
 import rospy
